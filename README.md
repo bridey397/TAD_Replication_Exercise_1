@@ -14,9 +14,9 @@ Partial replication of code from article "Out-group animosity drives engagement 
 ## Folder Descriptions
 
 ### Dictionary_Files
-**ConservativeIdentity.txt** - Identifying dictionary for Conservative party 
-**DemocratCongress.txt** - Identifying Democrat Members of Congress
-**DemocratCongressFB.txt** -Identifying Democrat Members of Congress for Facebook
+**ConservativeIdentity.txt** - Identifying dictionary for Conservative party <br/>
+**DemocratCongress.txt** - Identifying Democrat Members of Congress<br/>
+**DemocratCongressFB.txt** -Identifying Democrat Members of Congress for Facebook<br/>
 **LiberalIdentity.txt** - Identifying dictionary for Liberal party 
 **MoralEmotion.txt** - Dictionary to identify moral emotional words
 **MostFamousDemocrats.txt** - List of famous Democrats
