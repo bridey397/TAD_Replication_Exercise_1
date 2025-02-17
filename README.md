@@ -28,9 +28,10 @@ Partial replication of code from article "Out-group animosity drives engagement 
 
 ### R_code
 **FullRScriptNov9.R** - Original script uploaded by authors<br/>
-**ReplicationScript.R** - Replication script
+**ReplicationScript.R** - Replication script that includes the modified code used to recreate results. <br/>
 
 ### Result_Figures
-**conservativecongressreactionplot.png** - <br/>
-**conservativecongressreactionplot_replicated.png** - <br/>
-**conservativecongress_odds_ratio_plot.png** - <br/>
+**conservativecongress_odds_ratio_plot.png** - Plot that demonstrates the effect that different identities and emotions included in the Facebook post's text may effect its odds of getting shared on the platform. <br/>
+**conservativecongressreactionplot.png** - Plot that shows the differing effects the in-group (red dots) and out-group (blue dots) language has on Facebook engagement, broken down by shares, likes, comments, and different reactions. Based on the author's original results and dictionary mappings. <br/>
+**conservativecongressreactionplot_replicated.png** - Plot that shows the differing effects the in-group (red dots) and out-group (blue dots) language has on Facebook engagement, broken down by shares, likes, comments, and different reactions. Based on the the replicated dictionary mappings. <br/>
+
