@@ -17,20 +17,20 @@ Partial replication of code from article "Out-group animosity drives engagement 
 **ConservativeIdentity.txt** - Identifying dictionary for Conservative party <br/>
 **DemocratCongress.txt** - Identifying Democrat Members of Congress<br/>
 **DemocratCongressFB.txt** -Identifying Democrat Members of Congress for Facebook<br/>
-**LiberalIdentity.txt** - Identifying dictionary for Liberal party 
-**MoralEmotion.txt** - Dictionary to identify moral emotional words
-**MostFamousDemocrats.txt** - List of famous Democrats
-**MostFamousDemocratsFacebook.txt** - List of famous Democrats for Facebook
-**MostFamousRepublicans.txt** - List of famous Republicans
-**MostFamousRepublicansFacebook.txt** - List of famous Republicans for Facebook
-**RepublicansCongress.txt** - Identifying Republican Members of Congress
-**RepublicansCongressFB.txt** - Identifying Republican Members of Congress for Facebook
+**LiberalIdentity.txt** - Identifying dictionary for Liberal party <br/>
+**MoralEmotion.txt** - Dictionary to identify moral emotional words<br/>
+**MostFamousDemocrats.txt** - List of famous Democrats<br/>
+**MostFamousDemocratsFacebook.txt** - List of famous Democrats for Facebook<br/>
+**MostFamousRepublicans.txt** - List of famous Republicans<br/>
+**MostFamousRepublicansFacebook.txt** - List of famous Republicans for Facebook<br/>
+**RepublicansCongress.txt** - Identifying Republican Members of Congress<br/>
+**RepublicansCongressFB.txt** - Identifying Republican Members of Congress for Facebook<br/>
 
 ### R_code
-**FullRScriptNov9.R** - Original script uploaded by authors
+**FullRScriptNov9.R** - Original script uploaded by authors<br/>
 **ReplicationScript.R** - Replication script
 
 ### Result_Figures
-**conservativecongressreactionplot.png** - 
-**conservativecongressreactionplot_replicated.png** - 
-**conservativecongress_odds_ratio_plot.png** - 
+**conservativecongressreactionplot.png** - <br/>
+**conservativecongressreactionplot_replicated.png** - <br/>
+**conservativecongress_odds_ratio_plot.png** - <br/>
